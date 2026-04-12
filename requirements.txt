@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly
+ipywidgets
+longport
+voila
