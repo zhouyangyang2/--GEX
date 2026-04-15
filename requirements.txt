@@ -4,3 +4,4 @@ plotly
 ipywidgets
 longport
 voila
+notebook
