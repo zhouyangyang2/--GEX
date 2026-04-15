@@ -5,3 +5,4 @@ ipywidgets
 longport
 voila
 notebook
+anywidget
